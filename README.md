@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Forums
+
+**Embryo Forums** is Embryo-Zero's fork of [Lemmy](https://github.com/LemmyNet/lemmy), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
 
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/releases)
